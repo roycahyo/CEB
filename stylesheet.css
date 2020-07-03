@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    font-family: "Penumbra Half Serif";
+	background-color: #020B1D
+}
+  
+a {
+    text-decoration: none;
+}
+
+.com-sol {
+    padding:0 50px 50px 50px;
+}
+
+.clear {
+    clear: left;
+}
+
+.community h3 {
+    font-size: 46px;
+	letter-spacing: 17px;
+	color:#E4ECDD;
+	border-bottom: 2px solid #87D861;
+	margin-bottom: 50px;
+	padding-bottom: 20px;
+  }
+
+.community {
+    text-align: center;
+    padding: 50px; 
+    margin: 0 auto;
+	margin-bottom: 100px;
+}  
+
+.top-commun {
+    float:left;
+    width: 25%; 
+    height: 384px;
+    margin:0 auto; 
+	margin-top: 50px;
+}
+img {
+	margin: 0;
+	border:medium solid #C6CB14
+}
+
+.pict-logo {
+    margin-bottom: 20px;
+}
+
+.top-commun a {
+    padding: 0 20px;
+    background-color: gold; 
+    
+}
+/* CSS consol link */
+
+.console-link {
+    margin: 50px 140px;
+	padding-top: 50px;
+}
+
+.console-link h3 {
+    color: cornsilk;
+	letter-spacing: 17px;
+    text-align: center;
+    font-size: 46px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid  cornsilk;
+}
+
+.cl {
+	padding-top: 50px;
+}
+.pict-logo {
+    width: 100%;
+}
+
+.console1 {
+    display: block; 
+}
+
+.top.console2 {
+    display: block;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.top.console3 {
+    display: block;
+    text-align: right;
+	margin: 0 auto;
+}
+
+.pict-logo {
+	margin-bottom: 30px;
+}
+

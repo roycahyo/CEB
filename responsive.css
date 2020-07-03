@@ -1,0 +1,129 @@
+/* Untuk Tablets */
+@media (max-width: 1000px) {
+	
+	.com-sol {
+		padding:0 30px 30px 33px;
+	}
+
+	.clear {
+		clear: left;
+	}
+
+	.community h3 {
+		font-size: 36px;
+		letter-spacing: 12px;
+		margin-bottom: 40px;
+		padding-bottom: 20px;
+	}
+
+	.community {
+		padding: 50px; 
+		margin-bottom: 80px;
+	}  
+
+	.top-commun {
+		width: 50%; 
+		margin-top: 70px;
+	}
+		
+	img {
+		border:medium solid #C6CB14
+	}
+		img.comm-pict {
+			margin-top: 0px; 
+		}
+
+	.pict-logo {
+		margin-bottom: 20px;
+		margin: 0px 25px;
+		padding-bottom: 50px;
+	}
+		
+	/* CSS Console Link */
+	.console-link {
+		margin: 50px 80px;
+	}
+	.lesson {
+		width: 50%;
+		margin-bottom: 50px;
+	}
+		
+	.console-link h3 {
+		font-size: 36px;
+		letter-spacing: 12px;
+	}
+		
+	.top-commun {
+		float:left;
+		width: 50%; 
+		height: 384px;
+		margin-bottom:50px auto;  
+		}
+}
+
+  /* Untuk Smartphones */
+  @media (max-width: 670px) {
+	  
+	.com-sol {
+		padding: 0;
+	}
+	.console-link {
+    	margin: 50px 0;
+		padding-top: 10px;
+	}
+	  
+	.community h3 {
+		font-size: 22px;
+		letter-spacing: 5px;
+		border-bottom: 1px solid #87D861;
+		margin-bottom: 20px;
+		padding-bottom: 10px;
+	}
+
+	.community {
+		text-align: center;
+		padding: 0; 
+		margin: 0 auto;
+		margin-bottom: 40px;
+	}  
+
+	.top-commun {
+		margin-top: 40px;
+	}
+
+	img {
+		border:medium solid #C6CB14
+	}
+		
+	img.comm-pict {
+		margin-top: 0px; 
+	}
+
+	.pict-logo {
+		margin-bottom: 20px;
+		margin: 0 auto;
+	}	
+
+/* CSS Console Link */
+
+	.console-link h3 {
+		font-size: 26px;
+		letter-spacing: 5px;
+		margin: 20px 0;
+		
+	}
+	.top {
+		width: 100%;
+	}
+
+	.top.console1 {
+		display: block;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+}
+
+
+
+
